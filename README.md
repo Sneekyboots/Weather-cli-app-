@@ -25,8 +25,8 @@ This playful Python script brings a touch of color to your weather forecasts! It
 **2. Usage:**
 
 1. Replace `YOUR_API_KEY` in the script with your actual API key.
-2. Save the script as `weather_fun.py`.
-3. Run the script from your terminal: `python weather_fun.py`
+2. Save the script as `main.py`.
+3. Run the script from your terminal: `python main.py`
 4. Enter the city name when prompted.
 
 **The script will display the weather information, including:**
